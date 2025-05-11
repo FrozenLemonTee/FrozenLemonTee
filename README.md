@@ -9,7 +9,7 @@ Hello, I'm FrozenLemonTee. You can call me FrozenLemon in English or 冰柠 in C
 * 👔 I lead the development team [DeepCoding](https://github.com/DeepCodingInTuringAcademy).
 * 👋 I am glad to meet more friendly people.
 
-#### My GitHub Statistic
+#### My GitHub Stats
 ![FrozenLemonTee's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=FrozenLemonTee&show_icons=true&theme=default&custom_title=FrozenLemonTee's%20GitHub%20Stats#gh-light-mode-only)
 
 
@@ -42,7 +42,7 @@ Hello, I'm FrozenLemonTee. You can call me FrozenLemon in English or 冰柠 in C
 ![Project_Liscpp](https://my-github-readme-stats-git-main-frozenlemontees-projects.vercel.app/api/pin/?username=FrozenLemonTee&repo=Liscpp)
 ![Project_Habbit](https://my-github-readme-stats-git-main-frozenlemontees-projects.vercel.app/api/pin/?username=DeepCodingInTuringAcademy&repo=Habbit&show_owner=true)
 
-#### Contacts me
+#### Contact me
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/FrozenlemonTee)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/frozenlemontee)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:frozenlemontee@gmail.com)
