@@ -38,9 +38,9 @@ Hello, I'm FrozenLemonTee. You can call me FrozenLemon in English or 冰柠 in C
 * I use two operating system, Windows11 and Manjaro Linux on my desktop PC.
 
 #### My projects
-![Project_original](https://my-github-readme-stats-git-main-frozenlemontees-projects.vercel.app/api/pin/?username=FrozenLemonTee&repo=original)
-![Project_Liscpp](https://my-github-readme-stats-git-main-frozenlemontees-projects.vercel.app/api/pin/?username=FrozenLemonTee&repo=Liscpp)
-![Project_Habbit](https://my-github-readme-stats-git-main-frozenlemontees-projects.vercel.app/api/pin/?username=DeepCodingInTuringAcademy&repo=Habbit&show_owner=true)
+![Project_original](https://my-github-readme-stats-git-main-frozenlemontees-projects.vercel.app/api/pin/?username=FrozenLemonTee&repo=original&cache_seconds=10)
+![Project_Liscpp](https://my-github-readme-stats-git-main-frozenlemontees-projects.vercel.app/api/pin/?username=FrozenLemonTee&repo=Liscpp&cache_seconds=10)
+![Project_Habbit](https://my-github-readme-stats-git-main-frozenlemontees-projects.vercel.app/api/pin/?username=DeepCodingInTuringAcademy&repo=Habbit&show_owner=true&cache_seconds=10)
 
 #### Contact me
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/FrozenlemonTee)
