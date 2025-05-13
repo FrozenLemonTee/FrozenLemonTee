@@ -1,6 +1,6 @@
 ### 🧊 FrozenLemonTee | 冰柠配绿茶 🍋🌿
 
-![banner](assets/banner.png)
+[![banner](assets/banner.png)](https://teyan.xyz/4129691)
 
 Hello, I'm FrozenLemonTee. You can call me FrozenLemon in English or 冰柠 in Chinese.
 
