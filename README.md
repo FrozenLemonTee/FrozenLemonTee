@@ -39,7 +39,7 @@ Hello, I'm FrozenLemonTee. You can call me FrozenLemon in English or 冰柠 in C
 * I use two operating system, Windows11 and Manjaro Linux on my desktop PC.
 
 #### ✨ My contributions
-[![Project_core](https://my-github-readme-stats-git-main-frozenlemontees-projects.vercel.app/api/pin/?username=moonbitlang&repo=core&cache_seconds=10)](https://github.com/FrozenLemonTee/original)
+[![Project_core](https://my-github-readme-stats-git-main-frozenlemontees-projects.vercel.app/api/pin/?username=moonbitlang&repo=core&cache_seconds=10&show_owner=true)](https://github.com/moonbitlang/core)
 
 #### 📌 My projects
 [![Project_original](https://my-github-readme-stats-git-main-frozenlemontees-projects.vercel.app/api/pin/?username=FrozenLemonTee&repo=original&cache_seconds=10)](https://github.com/FrozenLemonTee/original)
