@@ -43,6 +43,7 @@ Hello, I'm FrozenLemonTee. You can call me FrozenLemon in English or 冰柠 in C
 
 #### 📌 My projects
 [![Project_original](https://my-github-readme-stats-git-main-frozenlemontees-projects.vercel.app/api/pin/?username=FrozenLemonTee&repo=original&cache_seconds=10)](https://github.com/FrozenLemonTee/original)
+[![Project_TUI-rabbit](https://my-github-readme-stats-git-main-frozenlemontees-projects.vercel.app/api/pin/?username=FrozenLemonTee&repo=tui-rabbit&description_lines_count=1&cache_seconds=10)](https://github.com/FrozenLemonTee/tui-rabbit)
 [![Project_Liscpp](https://my-github-readme-stats-git-main-frozenlemontees-projects.vercel.app/api/pin/?username=FrozenLemonTee&repo=Liscpp&cache_seconds=10)](https://github.com/FrozenLemonTee/liscpp)
 [![Project_Habbit](https://my-github-readme-stats-git-main-frozenlemontees-projects.vercel.app/api/pin/?username=DeepCodingInTuringAcademy&repo=Habbit&show_owner=true&cache_seconds=10)](https://github.com/DeepCodingInTuringAcademy/Habbit)
 
