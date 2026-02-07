@@ -5,7 +5,7 @@
 Hello, I'm FrozenLemonTee. You can call me FrozenLemon in English or 冰柠 in Chinese.
 
 * [🇨🇳](https://www.gov.cn/)[🌐](https://www.un.org/en/) I'm from China, and I speak Chinese and English.
-* [📖](https://en.wikipedia.org/wiki/Computer_science)[✏️](https://en.wikipedia.org/wiki/Computer_science) I am a graduate student in computer science.
+* [📖](https://en.wikipedia.org/wiki/Computer_science)[🎓](https://en.wikipedia.org/wiki/Computer_science) I am a graduate student in computer science.
 * [💼](https://plctlab.org/zh/) I am currently interning at [PLCT Lab](https://github.com/plctlab) in [the Institute of Software, Chinese Academy of Sciences](http://www.iscas.ac.cn/)
 * [👥](https://github.com/mcpp-community) I am a core team member of the [MCPP community](https://github.com/mcpp-community).
 * [👔](https://github.com/DeepCodingInTuringAcademy) I lead the development team [DeepCoding](https://github.com/DeepCodingInTuringAcademy).
