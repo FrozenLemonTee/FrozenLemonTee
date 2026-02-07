@@ -11,7 +11,7 @@ Hello, I'm FrozenLemonTee. You can call me FrozenLemon in English or 冰柠 in C
 * [👋](https://x.com/FrozenlemonTee) I am glad to meet more friendly people.
 
 #### 📊 My GitHub Stats
-[![FrozenLemonTee's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=FrozenLemonTee&show_icons=true&theme=default&custom_title=FrozenLemonTee's%20GitHub%20Stats#gh-light-mode-only)](https://github.com/FrozenLemonTee)
+[![FrozenLemonTee's GitHub stats-Light](https://my-github-readme-stats-git-main-frozenlemontees-projects.vercel.app/api?username=FrozenLemonTee&show_icons=true&theme=default&custom_title=FrozenLemonTee's%20GitHub%20Stats#gh-light-mode-only)](https://github.com/FrozenLemonTee)
 
 
 #### 🛠️ My technology stack
