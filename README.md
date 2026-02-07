@@ -20,14 +20,11 @@ Hello, I'm FrozenLemonTee. You can call me FrozenLemon in English or 冰柠 in C
 [![icon_Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.org/)
 [![icon_CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)](https://cmake.org/)
 [![icon_Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)](https://www.qt.io/)
-[![icon_PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
 
 [![Top Langs](https://my-github-readme-stats-git-main-frozenlemontees-projects.vercel.app/api/top-langs/?username=FrozenLemonTee&layout=compact&card_width=450&langs_count=6&exclude_repo=waline,blogSrc,ciyana-button,original_docs,my-github-readme-stats)](https://github.com/FrozenLemonTee)
 
 * My primary programming language are C/C++.
 * I'm interested in infrastructure.
-* I'm learning Qt.
-* I'm studying deep learning with PyTorch.
 
 #### 🐧 My coding environment
 [![icon_CLion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)](https://www.jetbrains.com/clion/)
