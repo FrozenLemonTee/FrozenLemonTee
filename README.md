@@ -32,7 +32,7 @@ Hello, I'm FrozenLemonTee. You can call me FrozenLemon in English or 冰柠 in C
 [![icon_Windows11](https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white)](https://www.microsoft.com/en-us/software-download/windows11)
 [![icon_Manjaro](https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white)](https://manjaro.org/)
 
-* I use Jetbrains IDEs, such as CLion and PyCharm.
+* I use JetBrains IDEs, such as CLion and PyCharm.
 * I use two operating system, Windows11 and Manjaro Linux on my desktop PC.
 
 #### ✨ My contributions
