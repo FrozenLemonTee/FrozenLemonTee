@@ -39,6 +39,7 @@ Hello, I'm FrozenLemonTee. You can call me FrozenLemon in English or 冰柠 in C
 #### ✨ My contributions
 [![Project_core](https://my-github-readme-stats-git-main-frozenlemontees-projects.vercel.app/api/pin/?username=moonbitlang&repo=core&cache_seconds=10&show_owner=true)](https://github.com/moonbitlang/core)
 [![Project_core](https://my-github-readme-stats-git-main-frozenlemontees-projects.vercel.app/api/pin/?username=mcpp-community&repo=d2mystl&cache_seconds=10&show_owner=true)](https://github.com/mcpp-community/d2mystl)
+[![Project_mcpp-community-d2mystl](https://my-github-readme-stats-git-main-frozenlemontees-projects.vercel.app/api/pin/?username=mcpp-community&repo=d2mystl&cache_seconds=10&show_owner=true)](https://github.com/mcpp-community/d2mystl)
 
 #### 📌 My projects
 [![Project_original](https://my-github-readme-stats-git-main-frozenlemontees-projects.vercel.app/api/pin/?username=Original-org&repo=original&cache_seconds=10&show_owner=true)](https://github.com/Original-org/original)
